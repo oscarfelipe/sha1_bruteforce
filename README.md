@@ -14,6 +14,7 @@ ghci is going to load the script bf.hs. In order to test bf2.hs you can perform 
 and the ghc interpreter is going to use the bf2.hs functions
 ##Use
 bruteforce only accepts strings, so this are correct uses of the bruteforce function:
+
 Main>bruteforce "e175ea4ce0a553260a14bc5e922a935b40425c1e"
 Main>["ab1"]
 
