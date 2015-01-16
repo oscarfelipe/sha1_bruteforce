@@ -16,15 +16,18 @@ and the ghc interpreter is going to use the bf2.hs functions
 bruteforce only accepts strings, so this are correct uses of the bruteforce function:
 
 Main>bruteforce "e175ea4ce0a553260a14bc5e922a935b40425c1e"
+
 Main>["ab1"]
 
 Main>bruteforce "9ee036287b4cfbcfa3b5bbfcf92d46eb5e75df96"
 Main>["abc1"]
 
 Main>bruteforce "d8105747facd7558aca4559169590ada33e4aca0"
+
 Main>["abcd1"]
 
 Main>bruteforce "2dff4fc90e2973f54d62e257480de234bc59e2c4"
+
 Main>["oscar"]
 
 ##bf.hs
