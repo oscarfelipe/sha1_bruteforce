@@ -1,5 +1,5 @@
 #Brute force attack to SHA1 hashed passwords
-bruteforce is a Haskell script that issue a brute force attack to sha1-hashed password
+bruteforce is a Haskell script that issue a brute force attack against a sha1-hashed password
 of infinite length. There are two version of the script: a slow version called bs.hs and an optimised version called bs2.hs
 
 ##Installation
