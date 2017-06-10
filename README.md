@@ -4,7 +4,7 @@ bruteforce is a Haskell script that issue a brute force attack against a sha1-ha
 of infinite length. These scripts are the result of a mandatory assignment for a Web Security Course at Copenhagen School of Design and Technology ([KEA](http://www.kea.dk/da/)) during december 2014. There are two version of the script: a slow version called bs.hs and an optimised version called bs2.hs
 
 ## Installation
-in order to run the functions, an installation of the Glorious Haskell Compiler is required[ghc](https://www.haskell.org/platform/).
+in order to run the functions, an installation of the Glorious Haskell Compiler is required [ghc](https://www.haskell.org/platform/).
 
 ## Selecting the script
 on the folder of the project call ghci on the console:
